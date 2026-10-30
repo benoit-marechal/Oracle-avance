@@ -1,4 +1,10 @@
-> Destiné aux débutants et à but pédagogique, j'ai réalisé ce tutoriel il y a plusieurs années à mes débuts en informatique. Je l'ai réalisé avec l'aide d'Anthony Maréchal.
+# Travaux pratiques Oracle
 
-De l'installation à la structure interne avec les tablespaces et les index en passant par le clustering et le requêtage. Vous aurez une vue complète du SGBDR : Oracle
+Travaux étudiants de 2006-2007, réalisés avec Anthony Maréchal et conservés comme archives pédagogiques.
 
+Comptes rendus sur l’installation et le fonctionnement d’Oracle : tablespaces, index, clustering et requêtes SQL.
+
+- [Premier compte rendu](compte-rendu-1.pdf).
+- [Troisième compte rendu](compte-rendu-3.pdf).
+
+Les documents reflètent les versions et les outils utilisés pendant ces travaux. Les propositions de correction sont bienvenues dans les issues et les pull requests.
